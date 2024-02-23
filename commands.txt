@@ -1,1 +1,6 @@
+main.py --- is used for production
+
+spark-city.py --- writing spark jobs to listening from kafka
+
+pip freeze > requirements.txt --- This will save the output of pip freeze to a file named requirements.txt, which you can then use to recreate your environment.
 
